@@ -5,6 +5,9 @@ Portfolio for EDS 124BR (Summer Session)
 
 ## Week 2 Videos
 
+### Interactive Parsons’ Problem - Repeats
+https://github.com/user-attachments/assets/748087e0-385a-478f-a4ae-f8d0bba090fa
+
 https://github.com/user-attachments/assets/ab5d08ad-6d3b-48c6-9570-47232b2e145b
 
 https://github.com/user-attachments/assets/aa1fd140-dc3f-4d1a-8f7a-5849f48873a3
