@@ -3,6 +3,9 @@ Portfolio for EDS 124BR (Summer Session)
 <br>
 **Note: Videos can be downloaded from the repository or viewed below in reverse chronological order (newest videos first)**
 
+## Week 3 Videos
+
+
 ## Week 2 Videos
 
 ### Interactive Parsons’ Problem - Repeats
