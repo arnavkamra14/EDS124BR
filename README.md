@@ -5,6 +5,7 @@ Portfolio for EDS 124BR (Summer Session)
 
 ## Week 3 Videos
 
+https://github.com/user-attachments/assets/91b3918b-0f90-4833-8eda-b30e77012d9a
 
 ## Week 2 Videos
 
