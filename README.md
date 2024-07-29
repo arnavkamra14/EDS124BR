@@ -3,6 +3,10 @@ Portfolio for EDS 124BR (Summer Session)
 <br>
 **Note: Videos can be downloaded from the repository or viewed below in reverse chronological order (newest videos first)**
 
+## Week 4 Videos
+
+https://github.com/user-attachments/assets/09715b3b-5d09-4913-b251-5f334b83bcb8
+
 ## Week 3 Videos
 
 https://github.com/user-attachments/assets/fc1d527e-4ccb-4c94-bf36-7c915102e895
